@@ -1,0 +1,20 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.witch-hat {
+  border: 1px solid red;
+}
+
+.hero {
+  background: image-url("wicked_witch.jpg");
+  padding: 12em;
+  text-align: center;
+  h1 {
+    color: #fff;
+    font-size: 8rem;
+  }
+  p {
+    color: #f2f2f2;
+  }
+}
